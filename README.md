@@ -69,7 +69,7 @@
   
 | ![](https://github-readme-stats.vercel.app/api?username=my895&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=my895&theme=radical&hide_border=true) |
 |:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=my895&layout=compact&theme=radical&hide_border=true&langs_count=8) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=my895&theme=radical) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=my895&layout=compact&theme=radical&hide_border=true&langs_count=8) 
   
 </div>
 
